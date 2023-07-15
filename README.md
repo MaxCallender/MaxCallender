@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![My Skills](https://skillicons.dev/iconsaws,bash,gcp,git,github,py,pytorch,r,sqlite,tensorflow,wasm)](https://skillicons.dev)
 <!--
 **MaxCallender/MaxCallender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
